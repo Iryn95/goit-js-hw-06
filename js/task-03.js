@@ -38,3 +38,7 @@ galleryEl.style.justifyContent = 'space-around';
 galleryEl.style.listStyle = 'none';
 
 galleryEl.insertAdjacentHTML('beforeend', makeImageEl);
+
+
+
+  
